@@ -1,0 +1,10 @@
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\bin\Debug\fake ip puller.exe.config
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\bin\Debug\fake ip puller.exe
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\bin\Debug\fake ip puller.pdb
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake ip puller.csprojAssemblyReference.cache
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake_ip_puller.Form1.resources
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake_ip_puller.Properties.Resources.resources
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake ip puller.csproj.GenerateResource.cache
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake ip puller.csproj.CoreCompileInputs.cache
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake ip puller.exe
+C:\Users\ROSTEK\source\repos\fake ip puller\fake ip puller\obj\Debug\fake ip puller.pdb
